@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>AdamMil.Mathematics</RootNamespace>
     <AssemblyName>AdamMil.Mathematics</AssemblyName>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>../AdamMil.snk</AssemblyOriginatorKeyFile>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
@@ -29,7 +29,7 @@
     <DocumentationFile>bin\Debug\AdamMil.Math.xml</DocumentationFile>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <BaseAddress>19922944</BaseAddress>
-    <CodeAnalysisRuleSet>../../Analysis.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <NoWarn>419</NoWarn>
     <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
